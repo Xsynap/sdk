@@ -1,0 +1,11 @@
+{
+  "name": "xsynap",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/bootstrap.ts"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.95.0"
+  }
+}
